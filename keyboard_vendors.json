@@ -1,0 +1,889 @@
+[
+    {
+        "name": "KBDfans",
+        "url": "https://kbdfans.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ]
+    },
+    {
+        "name": "NovelKeys",
+        "url": "https://novelkeys.com",
+        "categories": [
+            "kit",
+            "switch",
+            "keycap",
+            "stabilizer",
+            "lube"
+        ]
+    },
+    {
+        "name": "Keychron",
+        "url": "https://www.keychron.com",
+        "categories": [
+            "kit",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "1UP Keyboards",
+        "url": "https://1upkeyboards.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ]
+    },
+    {
+        "name": "KeebsForAll",
+        "url": "https://keebsforall.com",
+        "categories": [
+            "kit",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "Kinetic Labs",
+        "url": "https://kineticlabs.com",
+        "categories": [
+            "switch",
+            "keycap",
+            "lube",
+            "accessory"
+        ]
+    },
+    {
+        "name": "Cannon Keys",
+        "url": "https://cannonkeys.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "Drop",
+        "url": "https://drop.com",
+        "categories": [
+            "kit",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "Mode Designs",
+        "url": "https://modedesigns.com",
+        "categories": [
+            "kit",
+            "case",
+            "plate",
+            "pcb"
+        ]
+    },
+    {
+        "name": "Divinikey",
+        "url": "https://divinikey.com",
+        "categories": [
+            "switch",
+            "keycap",
+            "stabilizer",
+            "lube"
+        ]
+    },
+    {
+        "name": "QWERTYKEYS",
+        "url": "https://www.qwertykeys.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate"
+        ]
+    },
+    {
+        "name": "Keygem",
+        "url": "https://keygem.com",
+        "categories": [
+            "switch",
+            "keycap",
+            "lube"
+        ]
+    },
+    {
+        "name": "Omnitype",
+        "url": "https://omnitype.com",
+        "categories": [
+            "kit",
+            "keycap",
+            "accessory"
+        ]
+    },
+    {
+        "name": "MechWild",
+        "url": "https://mechwild.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate"
+        ]
+    },
+    {
+        "name": "Thocstock",
+        "url": "https://thocstock.com",
+        "categories": [
+            "switch",
+            "keycap",
+            "stabilizer"
+        ]
+    },
+    {
+        "name": "Bolsa Supply",
+        "url": "https://bolsakeyboardsupply.com",
+        "categories": [
+            "switch",
+            "keycap",
+            "lube"
+        ]
+    },
+    {
+        "name": "Switchmod",
+        "url": "https://switchmod.net",
+        "categories": [
+            "switch",
+            "lube"
+        ]
+    },
+    {
+        "name": "Dangkeebs",
+        "url": "https://dangkeebs.com",
+        "categories": [
+            "switch",
+            "lube",
+            "accessory"
+        ]
+    },
+    {
+        "name": "KPrepublic",
+        "url": "https://kprepublic.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "Ringerkeys",
+        "url": "https://ringerkeys.com",
+        "categories": [
+            "switch",
+            "lube",
+            "accessory"
+        ]
+    },
+    {
+        "name": "Prevail Key Co",
+        "url": "https://prevailkeyco.com",
+        "categories": [
+            "switch",
+            "lube",
+            "accessory"
+        ]
+    },
+    {
+        "name": "WhatGeek",
+        "url": "https://www.whatgeek.com",
+        "categories": [
+            "kit",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "Custom KBD",
+        "url": "https://customkbd.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "Mechanical Keyboards",
+        "url": "https://mechanicalkeyboards.com",
+        "categories": [
+            "kit",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ]
+    },
+    {
+        "name": "Candy Keys",
+        "url": "https://candykeys.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "switch",
+            "keycap"
+        ]
+    },
+    {
+        "name": "Artisan Collecting",
+        "url": "https://artisancollector.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Intro to Switches",
+        "url": "https://www.theremingoat.com/blog/beginners-guide",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Beginner Guides",
+        "url": "https://www.keyboard.university/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "QMK",
+        "url": "https://qmk.fm/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "KMK",
+        "url": "http://kmkfw.io/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "VIAL",
+        "url": "https://get.vial.today/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "ZMK",
+        "url": "https://zmk.dev/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "VIA",
+        "url": "https://www.caniusevia.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Universal Scammer List\n\nUniversal Scammer List",
+        "url": "https://www.universalscammerlist.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "MKTrust GB Vendors\n\nMKTrust GB Vendors",
+        "url": "http://www.mktrust.org/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "split",
+        "url": "https://golem.hu/boards/",
+        "categories": [
+            "switch"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "this",
+        "url": "https://www.keebtalk.com/t/list-of-keyboard-retailers-shops-stores-vendors/9022",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Subscribe now!",
+        "url": "https://buttondown.email/kbdnews",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate",
+            "switch"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "splitkb.com",
+        "url": "https://splitkb.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "ZSA Technology Labs",
+        "url": "https://www.zsa.io",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Upgrade Keyboards",
+        "url": "https://upgradekeyboards.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "@keebio",
+        "url": "https://keeb.io",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Cyboard",
+        "url": "https://www.cyboard.digital/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Jason Hazel",
+        "url": "https://shop.hazel.cc",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "ghsear.ch",
+        "url": "https://ghsear.ch",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "TALPKEYBOARD",
+        "url": "https://talpkeyboard.net",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "HLPlanet",
+        "url": "https://www.hlplanet.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Keyboard Layout Editor",
+        "url": "http://www.keyboard-layout-editor.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Plate Builder",
+        "url": "http://builder.swillkb.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Plate Generator",
+        "url": "https://kbplate.ai03.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "kbfirmware.com",
+        "url": "https://kbfirmware.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "to QMK",
+        "url": "https://noroadsleft.github.io/kbf_qmk_converter/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "r/mk",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/new/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "geekhack.org",
+        "url": "https://geekhack.org/index.php",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "deskthority.net",
+        "url": "https://deskthority.net/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "lemmy/mk/",
+        "url": "https://lemmy.ml/c/mechanicalkeyboards",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "lemmy/ergomech/",
+        "url": "https://lemmy.world/c/ergomechkeyboards",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "kbin/mk/",
+        "url": "https://kbin.social/m/mechanicalkeyboards/newest",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "PCB design guide",
+        "url": "https://github.com/ruiqimao/keyboard-pcb-guide",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "another one",
+        "url": "https://wiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "PCB price comparison",
+        "url": "https://pcbshopper.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "lasergist",
+        "url": "https://lasergist.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "laserboost",
+        "url": "https://www.laserboost.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "hubs.com",
+        "url": "https://www.hubs.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "plate"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "twitter.com",
+        "url": "https://twitter.com/KbdNews",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "instagram.com",
+        "url": "https://www.instagram.com/kbdnews_/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-14"
+    },
+    {
+        "name": "Keyboard Institute\n\nKeyboard Institute",
+        "url": "https://keyboard.institute/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "MechGroupBuys\n\nMechGroupBuys",
+        "url": "https://discord.com/invite/mechgroupbuys",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "Keyboard Tester\n\nKeyboard Tester",
+        "url": "https://config.qmk.fm/#/test",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "Switch Modders\n\nSwitch Modders",
+        "url": "https://discord.gg/xnSUeETRTf",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "Keyboard Digest\n\nKeyboard Digest",
+        "url": "https://kbd.news/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "Learn More",
+        "url": "https://support.reddithelp.com/hc/en-us/articles/360049499032",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "Reddit Rules",
+        "url": "https://www.redditinc.com/policies/content-policy",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "Blog",
+        "url": "https://redditblog.com/",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "local pickup",
+        "url": "https://support.wasdkeyboards.com/hc/en-us/articles/115007822247-Local-Customers",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    },
+    {
+        "name": "22Kbd",
+        "url": "http://22kbd.com",
+        "categories": [
+            "kit",
+            "pcb",
+            "case",
+            "plate",
+            "switch",
+            "keycap",
+            "stabilizer"
+        ],
+        "discovered": "2025-04-24"
+    }
+]
